@@ -25,7 +25,7 @@ public class SetSamplePrograms {
 		ob.add("China");
 		ob.add("England");
 		ob.add("India");
-		ob.add("India");
+		ob.add("India");  // It restrict the duplicate element
 		// ob.add(null);
 
 		System.out.println("TreeSet = " + ob);
